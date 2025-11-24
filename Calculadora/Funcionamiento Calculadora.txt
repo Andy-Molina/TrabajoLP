@@ -1,9 +1,0 @@
-Calculadora
-
-Primero se importan las bibliotecas necesarias para los diversos funcionamientos de la misma. Se personaliza la ventana para que respete parámetros y estilos.
-
-Se le agregan diversos comandos para resultados puntuales o botones sin uso especificos.
-
-Están las funciones básicas de la aritmetica con sus casos especiales (como división por 0) y los botones configurados de manera individual cada uno
-
-Para cerrar finalmente con un "mainloop" que mantiene la ventana de TKinter abierta.
