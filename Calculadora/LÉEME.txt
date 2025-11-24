@@ -1,0 +1,18 @@
+Funciones calculadora
+- suma
+- resta
+- multiplicación
+- división
+
+Simbolos 
+- "." = coma
+- "=" = resultado
+- A, AC = borrar
+- ^2, raiz, ANS = abren imagen
+- %, pi, EXP = Ventana emergente
+- Ø = abre archivo.exe (doom 1993)
+
+Otras funciones
+- Resultado = 2 (abre imagen)
+- Division por 0 = Abre imagen pantallazo azul a pantalla completa (NO hay botón configurado para el cierre, usar ALT+F4)
+
