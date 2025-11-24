@@ -1,0 +1,15 @@
+Link repositorio GitHub:
+https://github.com/Andy-Molina/TrabajoLP
+
+
+TrabajoLP  (repositorio público)
+│
+└── main  (branch principal)
+    │
+    ├── Calculadora/            (carpeta)
+    │
+    ├── Planificador/           (carpeta)
+    │
+    ├── Algoritmo_Genético.ipynb
+    │
+    └── amolina_t3.ipynb
